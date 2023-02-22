@@ -1,0 +1,26 @@
+.tabla{
+  border-radius: 5px;
+  width: 70%;
+  margin-left: 100px;
+  text-align: center;
+  border-color: rgb(0, 0, 0);
+  
+}
+.uno td{
+width: 450px;
+height: 100px;
+margin-left: auto;
+margin-top: 0px;
+text-align: center;
+font-size: 24px;
+border-color: rgb(0, 0, 0);
+}
+.dos td{
+  width: 450px;
+  height: 100px;
+  margin-left: auto;
+  margin-top: 0px;
+  text-align: center;
+  font-size: 24px;
+  border-color: rgb(3, 2, 2);
+  }
